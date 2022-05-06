@@ -1,0 +1,5 @@
+altair==4.2.0
+pandas==1.4.1
+streamlit==1.7.0
+textblob==0.17.1
+vaderSentiment==3.3.2
