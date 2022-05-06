@@ -3,4 +3,4 @@ pandas
 streamlit
 textblob
 vaderSentiment
-pickle
+
