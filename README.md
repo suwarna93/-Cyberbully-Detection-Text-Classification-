@@ -2,4 +2,6 @@
 🧾**Description:** This dataset is a collection of datasets from different sources related to the automatic detection of cyber-bullying. The data is from different social media platforms like Kaggle, Twitter, Wikipedia Talk pages, and YouTube. The data contains text and are labeled as bullying or not. The data contains different types of cyber-bullying like hate speech, aggression, insults, and toxicity. You have been provided with the twitter\_parsed tweets dataset, wherein you have to classify whether the tweet is toxic or not. 🧭 
 
 **Problem Statement:** You are provided with **twitter\_parsed\_tweets**: you have to perform a step-by-step NLP approach to identify the toxicity of the tweet, and classify the tweet in a binary value.   The target variable is **oh-label** and the evaluation metric is **F1-score**.
-https://share.streamlit.io/suwarna93/-cyberbully-detection-text-classification-/main/app.py (Deploy an app on streamlit cloud) 
+
+
+APP Link:-- https://share.streamlit.io/suwarna93/-cyberbully-detection-text-classification-/main/app.py (Deploy an app on streamlit cloud) 
