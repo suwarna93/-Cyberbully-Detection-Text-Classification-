@@ -1,5 +1,5 @@
 import streamlit as st
-import pickle  
+  
 from textblob import TextBlob
 import pandas as pd
 import altair as alt
@@ -10,8 +10,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 st.set_page_config(page_title='Cyberbully Detection App', page_icon="😊🙂😡",
                                layout="wide", initial_sidebar_state='expanded')
 
-pickle_in = open('model.pkl', 'rb') 
-model = pickle.load(pickle_in)
+
 
 
 
